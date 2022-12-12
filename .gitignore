@@ -1,3 +1,5 @@
 .DS_Store
-techen_proposal
+techen_proposal.*
 *.docx
+images/
+prediction_log/
