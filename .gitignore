@@ -3,3 +3,4 @@ techen_proposal.*
 *.docx
 images/
 prediction_log/
+*.csv
